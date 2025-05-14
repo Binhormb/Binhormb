@@ -29,4 +29,4 @@
 
 - [LinkedIn](https://www.linkedin.com/in/binhormb/)
 - [Instagram](https://www.instagram.com/blnho/)
-- [Email](binhormb@hotmail.com)
+- Email: binhormb@hotmail.com
