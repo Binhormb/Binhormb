@@ -4,7 +4,7 @@
  -  Previsão de conclusão: dez/2025
 
 
-💻 Apaixonado pela tecnologia, com foco em: MySQL, PowerBI, Python, HTML, CSS
+💻 Apaixonado pela tecnologia, com foco no Backend.
 
 📚 Sempre em busca de novos conhecimentos e desafios na área de tecnologia.
 
