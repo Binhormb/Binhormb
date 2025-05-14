@@ -22,6 +22,7 @@
 ## 📈 Estatísticas do GitHub
 
 ![Binhormb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Binhormb&show_icons=true&theme=dracula)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binhormb&layout=compact&theme=dracula)
 
 ## 📫 Como me encontrar
