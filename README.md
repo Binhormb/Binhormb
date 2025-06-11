@@ -1,14 +1,13 @@
-# 👋 Olá! Eu sou o Klebson
+# 👋 Hello! I'm Klebson
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas no Universidade Mauricio de Nassau (UNINASSAU).
- -  Previsão de conclusão: dez/2025
+🎓 Student of Systems Analysis and Development at Universidade Mauricio de Nassau (UNINASSAU).  
+- Expected graduation: Dec/2025
 
+💻 Passionate about technology, with a focus on Backend development.
 
-💻 Apaixonado pela tecnologia, com foco no Backend.
+📚 Always seeking new knowledge and challenges in the tech field.
 
-📚 Sempre em busca de novos conhecimentos e desafios na área de tecnologia.
-
-## 🚀 Tecnologias/Ferramentas/Frameworks
+## 🚀 Technologies / Tools / Frameworks
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -19,14 +18,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-
-
-
-## 📈 Estatísticas do GitHub
+## 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binhormb&layout=compact&theme=dracula)
 
-## 📫 Como me encontrar
+## 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/binhormb/)
 - [Instagram](https://www.instagram.com/blnho/)
